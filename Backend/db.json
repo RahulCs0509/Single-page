@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "ids": "TTBS103405",
+      "name": "Rahul Kumar",
+      "sal": "83000",
+      "company": "TTBS",
+      "id": 2
+    },
+    {
+      "ids": "RK103405",
+      "name": "Rahul Kumar",
+      "sal": "60000",
+      "company": "IT Pan India ",
+      "id": 3
+    },
+    {
+      "ids": "CK6201916918",
+      "name": "Chandan Kumar",
+      "sal": "45000",
+      "company": "AG",
+      "id": 4
+    }
+  ]
+}
